@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/pWr1ght/Share-Rent-Buy-Portal#readme",
   "dependencies": {
-    "aws-sdk": "^2.668.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^4.0.1",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
